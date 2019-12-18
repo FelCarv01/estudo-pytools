@@ -1,6 +1,8 @@
 # Estudo-PyTools
 
 [![Build Status](https://travis-ci.com/Nordor1/estudo-pytools.svg?branch=master)](https://travis-ci.com/Nordor1/estudo-pytools)
+[![Build Status](https://travis-ci.com/Nordor1/estudo-pytools.svg?branch=master)](https://travis-ci.com/Nordor1/estudo-pytools)
+[![Python 3](https://pyup.io/repos/github/Nordor1/estudo-pytools/python-3-shield.svg)](https://pyup.io/repos/github/Nordor1/estudo-pytools/)
 
 ### Para instalar:
 - Criando o ambiente isolado e ativando.
