@@ -1,3 +1,4 @@
 [flake8]
-max-line-length = 120
+ignore= F633
+max-line-length = 160
 exclude = .venv, *.egg-info/
