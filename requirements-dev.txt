@@ -16,7 +16,7 @@ six==1.13.0
 wcwidth==0.1.8
 zipp==0.6.0
 #cov
-coverage==5.0.2
+coverage==5.4
 pytest-cov==2.8.1
 
 -r requirements.txt
